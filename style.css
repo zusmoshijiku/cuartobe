@@ -1,0 +1,56 @@
+html {
+    scroll-behavior: smooth;
+}
+
+h1,
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+li,
+table {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    line-height: 1.25;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-weight: 900;
+    display: inline-block
+}
+
+table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+  }
+
+td {
+    text-align: left;
+}
+
+.info {
+    background-color: #dbdbdb;
+    padding: 100px 0;
+    margin-top: 77px;
+    text-align: center;
+}
+
+.info li {
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    color: 	#fff;
+    text-align: right;
+
+}
