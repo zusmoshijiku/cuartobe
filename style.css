@@ -48,6 +48,10 @@ td {
     text-align: justify;
 }
 
+.info a {
+    font-size: 30px;
+}
+
 footer {
     background-color: black;
     color: 	#fff;
